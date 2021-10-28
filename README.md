@@ -1,13 +1,9 @@
 # aprender-markdown-noelia-rodriguez-hernandez-alu0100595420
-Repositorio de inicio
+## Repositorio de inicio
+### Datos 
 __*Noelia Rodríguez Hernádez*__
 1. Graduada en Ingeniería Electrónica Industrial y Automática
-1. Máster en Ingeniería Industrial
-1. Cursando Máster en Formación del Profesorado, esp. Tecnología
-2. 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-
+2. Máster en Ingeniería Industrial
+3. Cursando Máster en Formación del Profesorado, esp. Tecnología
+ 
 Clase 26/10/2021 - -
