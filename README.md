@@ -22,4 +22,4 @@ Aprendizaje y enseñanza de la tecnología [GitHub](https://ull-mfp-aet-2122.git
 
 
 #### __*Última actualización*__
-28 de octubre de 2021
+jueves 28 de octubre de 2021
