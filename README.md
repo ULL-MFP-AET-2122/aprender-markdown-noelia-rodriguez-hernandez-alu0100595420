@@ -14,8 +14,13 @@ __*Noelia Rodríguez Hernández*__
 * 2016-2017 Oficina de proyectos (construcción)
 
 ### *Pasiones* 
-![Noelia](https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg "Noelia")
-<img src="https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg"  width="300" height="200" />
+[comment]: <![Noelia](https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg "Noelia")>
+[comment]: <img src="https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg"  width="300" height="200" />
+
+<img 
+src="https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg"  
+width="50%" 
+/>
 
 
 ### *Máster profesorado*
@@ -23,4 +28,4 @@ Aprendizaje y enseñanza de la tecnología [GitHub](https://ull-mfp-aet-2122.git
 
 
 #### __*Última actualización*__
-jueves 28 de octubre de 2021 -
+jueves 28 de octubre de 2021 ---
