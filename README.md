@@ -5,5 +5,9 @@ __*Noelia Rodríguez Hernádez*__
 1. Graduada en Ingeniería Electrónica Industrial y Automática
 2. Máster en Ingeniería Industrial
 3. Cursando Máster en Formación del Profesorado, esp. Tecnología
- 
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 Clase 26/10/2021 - -
