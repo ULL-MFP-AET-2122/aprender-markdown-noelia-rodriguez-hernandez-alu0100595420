@@ -15,6 +15,7 @@ __*Noelia Rodríguez Hernández*__
 
 ### *Pasiones* 
 ![Noelia](https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg "Noelia")
+<img src="https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg"  width="300" height="200" />
 
 
 ### *Máster profesorado*
