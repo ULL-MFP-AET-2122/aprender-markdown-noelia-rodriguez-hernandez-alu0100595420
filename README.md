@@ -45,6 +45,9 @@ print ("Testing my repo")
 ### *Blockquote* 
 > El sabio no dice nunca todo lo que piensa, pero siempre piensa todo lo que dice :wink:
 
+### *Fichero máster* 
+https://github.com/NoeliaRguezHdez/master/blob/main/README.md
+
 
 #### __*Última actualización*__
 | Día | Mes | Año |
