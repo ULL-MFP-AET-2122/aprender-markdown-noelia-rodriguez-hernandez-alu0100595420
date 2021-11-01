@@ -8,16 +8,15 @@ __*alu0100595420*__
 4. FCE
 
 ### *Máster profesorado*
-
 Descripción y datos principales [Máster ULL](https://ull-mfp-aet-2122.github.io/tema0-introduccion/practicas/p02-t0-aprender-markdown/)
 
 Aprendizaje y enseñanza de la tecnología [GitHub](https://www.ull.es/masteres/formacion-profesorado/informacion-academica/descripcion-del-titulo/)
 
 ### *Expriencia* 
-* 2021-2021 Energías renovables (fotovoltaica)
-* 2020-2021 Quality Assurance (software)
-* 2017-2020 Energías renovables (fotovoltaica)
-* 2016-2017 Oficina de proyectos (construcción)
+* 2021-2021 :sunny: Energías renovables (fotovoltaica)
+* 2020-2021 :computer: Quality Assurance (software)
+* 2017-2020 :sunny: Energías renovables (fotovoltaica)
+* 2016-2017 :hammer: Oficina de proyectos (construcción)
 
 ### *Pasiones* 
 [comment]: <![Noelia](https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%A1mara-lifeder.jpg "Noelia")>
@@ -28,9 +27,29 @@ src="https://www.lifeder.com/wp-content/uploads/2017/11/delfines-mirando-a-c%C3%
 width="50%" 
 />
 
+### *Some code for training* 
+~~~
+void init() {
+    ongoing = 1;
+    servomotor_d.write(180);
+    servomotor_i.write(180);
+    digitalWrite(led, HIGH);
+    delay(200);
+    digitalWrite(led, LOW);
+    delay(200);
+}
+~~~
+`function fancyAlert(arg) {`
+` if(arg) {`
+`    $.facebox({div:'#foo'})` 
+`  }` 
+`}` 
+
 ### *Blockquote* 
-> El sabio no dice nunca todo lo que piensa, pero siempre piensa todo lo que dice
+> El sabio no dice nunca todo lo que piensa, pero siempre piensa todo lo que dice :wink:
 
 
 #### __*Última actualización*__
-jueves 28 de octubre de 2021 ---
+| Día | Mes | Año |
+| -- | -- | -- |
+| jueves 28 | octubre | 2021 |
