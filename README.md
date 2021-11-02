@@ -46,10 +46,10 @@ print ("Testing my repo")
 > El sabio no dice nunca todo lo que piensa, pero siempre piensa todo lo que dice :wink:
 
 ### *Fichero máster* 
-https://github.com/NoeliaRguezHdez/master/blob/main/README.md
+[Master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-noelia-rodriguez-hernandez-alu0100595420/blob/main/master.md)
 
 
 #### __*Última actualización*__
 | Día | Mes | Año |
 | -- | -- | -- |
-| lunes 01 | noviembre | 2021 |
+| martes 02 | noviembre | 2021 |
